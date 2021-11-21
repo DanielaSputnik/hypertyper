@@ -1,0 +1,23 @@
+const samplewords = ['rat'
+    , 'ferret' 
+    , 'budding' 
+    , 'plucker' 
+    , 'payslips' 
+    , 'clinch' 
+    , 'modal' 
+    , 'paying' 
+    , 'rivulet' 
+    , 'yellings' 
+    , 'south' 
+    , 'donga' 
+    , 'coaction' 
+    , 'tildes' 
+    , 'romancing' 
+    , 'nuisance' 
+    , 'pickle' 
+    , 'condoles' 
+    , 'deafness' 
+    , 'crouches' 
+    , 'grumbling']
+
+export default samplewords
